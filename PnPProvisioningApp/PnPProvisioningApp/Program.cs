@@ -38,6 +38,8 @@ namespace PnPProvisioningApp
         private static void ProcessSPO()
         {
             Console.WriteLine("Processing SPO.");
+
+
         }
 
 
